@@ -1,5 +1,5 @@
 #Linear Regression from Scratch
-📌 Project Overview
+ Project Overview
 
 This project implements Linear Regression from scratch in Python using only NumPy and Matplotlib.
 The goal is to improve my numerical programming skills in Python and gain a deeper understanding of core AI/ML concepts such as:
@@ -16,7 +16,7 @@ Instead of relying on libraries like scikit-learn, I coded the algorithm step by
 
 
 
-🚀 Features
+ Features
 
 Reads dataset: Study Hours vs Exam Scores
 
@@ -32,7 +32,7 @@ Visualizes results with scatter plot + regression line
 
 
 
-🖼 Example Output
+ Example Output
 
 The model learns the relationship between study hours and exam scores:
 
@@ -42,7 +42,7 @@ The model learns the relationship between study hours and exam scores:
 
 
 
-📂 Tech Stack
+ Tech Stack
 
 Python 3
 
@@ -54,7 +54,7 @@ Matplotlib (visualization)
 
 
 
-🎯 Learning Outcomes
+ Learning Outcomes
 
 Improved numerical programming skills in Python
 
@@ -64,7 +64,7 @@ Stronger foundation in AI/ML concepts for future projects
 
 
 
-📌 How to Run
+ How to Run
 git clone <your-repo-url>
 cd <repo-name>
 pip install -r requirements.txt (you need : python3 , pandas , numpy , matplotlib)
@@ -72,7 +72,7 @@ python linear_regression.py
 
 
 
-🔗 Connect with Me
+ Connect with Me
 
 I built this project as part of my journey in AI & Machine Learning.
 Check out more of my work on www.linkedin.com/in/aimen-abdesselam-bab937223
