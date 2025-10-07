@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 # 
 
 
+
 data =pd.read_csv("/home/neuro/.cache/kagglehub/datasets/aartisonigara/study-hours-vs-exam-scores/versions/1/student_scores.csv")
 
 # inputs 
